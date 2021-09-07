@@ -1,3 +1,3 @@
 # Johnny Wales
 
-(LinkedIn)[https://www.linkedin.com/in/john-wales-62832b5/]
+(https://www.linkedin.com/in/john-wales-62832b5/)[LinkedIn]
